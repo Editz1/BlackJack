@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/zh2.png");
+    background-size: cover;
+    font-weight: bold;
+    color: rgb(4, 4, 4);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(14, 150, 219);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #f3f7f5;
+    width: 150px;
+    background: rgb(14, 150, 219);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
